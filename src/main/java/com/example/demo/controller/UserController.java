@@ -11,7 +11,7 @@ public class UserController {
     // GET 방식으로 사번을 반환하는 API
     @GetMapping("/user")
     public String getUserId() {
-        return "82823052";
+        return "82023052";
     }
 }
 
